@@ -1,0 +1,1 @@
+Array (dizi), aynı türdeki öğelerin bir arada depolandığı veri yapısıdır. Bir array, belirli bir türdeki verileri sıralı bir şekilde saklar ve bu verilere indeksleme ile ulaşılabilir. Diziler sabit uzunluktadır, yani oluşturulduktan sonra boyutları değiştirilemez.
