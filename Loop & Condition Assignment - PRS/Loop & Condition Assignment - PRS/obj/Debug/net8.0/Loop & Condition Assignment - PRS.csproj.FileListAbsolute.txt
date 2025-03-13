@@ -1,0 +1,14 @@
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\bin\Debug\net8.0\Loop & Condition Assignment - PRS.exe
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\bin\Debug\net8.0\Loop & Condition Assignment - PRS.deps.json
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\bin\Debug\net8.0\Loop & Condition Assignment - PRS.runtimeconfig.json
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\bin\Debug\net8.0\Loop & Condition Assignment - PRS.dll
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\bin\Debug\net8.0\Loop & Condition Assignment - PRS.pdb
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.AssemblyInfo.cs
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.dll
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\refint\Loop & Condition Assignment - PRS.dll
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.pdb
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\Loop & Condition Assignment - PRS.genruntimeconfig.cache
+C:\Users\Samed\Desktop\ders\Loop & Condition Assignment - PRS\Loop & Condition Assignment - PRS\obj\Debug\net8.0\ref\Loop & Condition Assignment - PRS.dll

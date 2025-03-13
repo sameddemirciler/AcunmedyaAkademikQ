@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loop & Condition Assignment - PRS/1.0.0": {
+        "runtime": {
+          "Loop & Condition Assignment - PRS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loop & Condition Assignment - PRS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
