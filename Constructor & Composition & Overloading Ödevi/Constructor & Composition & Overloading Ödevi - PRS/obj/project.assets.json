@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samed\\Documents\\GitHub\\AcunmedyaAkademikQ\\Loop & Condition Assignment - PRS\\Loop & Condition Assignment - PRS\\Loop & Condition Assignment - PRS.csproj",
-      "projectName": "Loop & Condition Assignment - PRS",
-      "projectPath": "C:\\Users\\Samed\\Documents\\GitHub\\AcunmedyaAkademikQ\\Loop & Condition Assignment - PRS\\Loop & Condition Assignment - PRS\\Loop & Condition Assignment - PRS.csproj",
+      "projectUniqueName": "C:\\Users\\Samed\\Desktop\\acunmedya\\Constructor & Composition & Overloading Ödevi - PRS\\Constructor & Composition & Overloading Ödevi - PRS\\Constructor & Composition & Overloading Ödevi - PRS.csproj",
+      "projectName": "Constructor & Composition & Overloading Ödevi - PRS",
+      "projectPath": "C:\\Users\\Samed\\Desktop\\acunmedya\\Constructor & Composition & Overloading Ödevi - PRS\\Constructor & Composition & Overloading Ödevi - PRS\\Constructor & Composition & Overloading Ödevi - PRS.csproj",
       "packagesPath": "C:\\Users\\Samed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samed\\Documents\\GitHub\\AcunmedyaAkademikQ\\Loop & Condition Assignment - PRS\\Loop & Condition Assignment - PRS\\obj\\",
+      "outputPath": "C:\\Users\\Samed\\Desktop\\acunmedya\\Constructor & Composition & Overloading Ödevi - PRS\\Constructor & Composition & Overloading Ödevi - PRS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
