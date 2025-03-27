@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samed\\Desktop\\acunmedya\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD459805-6BB2-4213-9870-54B80AF05306}|Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS.csproj|c:\\users\\samed\\desktop\\acunmedya\\generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD459805-6BB2-4213-9870-54B80AF05306}|Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD459805-6BB2-4213-9870-54B80AF05306}|Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS.csproj|c:\\users\\samed\\desktop\\acunmedya\\generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD459805-6BB2-4213-9870-54B80AF05306}|Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS.csproj|solutionrelative:generic list ve nesne kullan\u0131m\u0131 \u00F6devi - prs\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2486,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Samed\\Desktop\\acunmedya\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Car.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Car.cs",
+              "ToolTip": "C:\\Users\\Samed\\Desktop\\acunmedya\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Car.cs",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:51:40.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samed\\Desktop\\acunmedya\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Program.cs",
+              "RelativeDocumentMoniker": "Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Program.cs",
+              "ToolTip": "C:\\Users\\Samed\\Desktop\\acunmedya\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Program.cs*",
+              "RelativeToolTip": "Generic List ve Nesne Kullan\u0131m\u0131 \u00D6devi - PRS\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:51:06.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

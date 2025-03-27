@@ -1,0 +1,14 @@
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.exe
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.deps.json
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.runtimeconfig.json
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.dll
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.pdb
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.AssemblyInfo.cs
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.dll
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\refint\Generic List ve Nesne Kullanımı Ödevi - PRS.dll
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.pdb
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi - PRS.genruntimeconfig.cache
+C:\Users\Samed\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi - PRS\Generic List ve Nesne Kullanımı Ödevi - PRS\obj\Debug\net8.0\ref\Generic List ve Nesne Kullanımı Ödevi - PRS.dll
