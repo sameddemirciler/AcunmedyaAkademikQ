@@ -1,0 +1,16 @@
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\bin\Debug\net8.0-windows\Serialization & Deserialization - PRS.exe
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\bin\Debug\net8.0-windows\Serialization & Deserialization - PRS.deps.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\bin\Debug\net8.0-windows\Serialization & Deserialization - PRS.runtimeconfig.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\bin\Debug\net8.0-windows\Serialization & Deserialization - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\bin\Debug\net8.0-windows\Serialization & Deserialization - PRS.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization___Deserialization___PRS.Form1.resources
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.AssemblyInfo.cs
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\refint\Serialization & Deserialization - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\Serialization & Deserialization - PRS.genruntimeconfig.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Serialization & Deserialization - PRS\Serialization & Deserialization - PRS\obj\Debug\net8.0-windows\ref\Serialization & Deserialization - PRS.dll
