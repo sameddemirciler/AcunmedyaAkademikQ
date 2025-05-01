@@ -1,0 +1,16 @@
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\bin\Debug\net8.0-windows\Custom Attribute Ödevi.exe
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\bin\Debug\net8.0-windows\Custom Attribute Ödevi.deps.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\bin\Debug\net8.0-windows\Custom Attribute Ödevi.runtimeconfig.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\bin\Debug\net8.0-windows\Custom Attribute Ödevi.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\bin\Debug\net8.0-windows\Custom Attribute Ödevi.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom_Attribute_Ödevi.Form1.resources
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.AssemblyInfo.cs
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\refint\Custom Attribute Ödevi.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\Custom Attribute Ödevi.genruntimeconfig.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Custom Attribute Ödevi\Custom Attribute Ödevi\obj\Debug\net8.0-windows\ref\Custom Attribute Ödevi.dll
