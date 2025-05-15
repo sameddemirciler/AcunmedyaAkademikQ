@@ -1,0 +1,25 @@
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta_Randevu_Sistemi___PRS.Form1.resources
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.csproj.GenerateResource.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.AssemblyInfoInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.AssemblyInfo.cs
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.csproj.CoreCompileInputs.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.exe
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.dll.config
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.deps.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.runtimeconfig.json
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.csproj.AssemblyReference.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Ra.CFF8B806.Up2Date
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\refint\Hasta Randevu Sistemi - PRS.dll
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.pdb
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\Hasta Randevu Sistemi - PRS.genruntimeconfig.cache
+C:\Users\Samed\Desktop\c# çalışmalarım\Hasta Randevu Sistemi - PRS\Hasta Randevu Sistemi - PRS\obj\Debug\net8.0-windows\ref\Hasta Randevu Sistemi - PRS.dll
